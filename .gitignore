@@ -162,6 +162,7 @@ cython_debug/
 *model*/
 *checkpoints/
 *support_files/
+.csv
 
 
 # PyCharm

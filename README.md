@@ -2,7 +2,7 @@ Archive of my weekly final assignments with deeplearning.ai's [Natural Language 
 
 [Certificate](https://coursera.org/share/edef25426347b74c7ea0d11cce365065)
 
-**LICENSE NOTE**: The assignments and materials are the intellectual property of deeplearning.ai, which should only be shared for educational purposes. Please do not use these for any commercial purposes. **I do not own the rights to the course material, nor am affiliated with deeplearning.ai in any way.**
+**LICENSE NOTE**: The assignments and materials are the intellectual property of deeplearning.ai, which should only be shared for educational purposes. Please do not use these for any commercial purposes (see LICENSE). **I do not own the rights to the course material, nor am affiliated with deeplearning.ai in any way.**
 
 My work is stored here for *my own* review. While I hope that this repository can be a helpful resource for others, I would like to remind you that copying or using any of the code here will not help you learn the material. I encourage you to try to solve the assignments yourself before looking at the solutions.
 
