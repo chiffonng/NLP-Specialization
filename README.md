@@ -1,3 +1,4 @@
+# Natural Language Processing Specialization
 Archive of my weekly final assignments with deeplearning.ai's [Natural Language Processing Specialization on Coursera](https://www.coursera.org/specializations/natural-language-processing), taught by Younes Bensouda Mourri, Instructor of AI at Stanford University and Łukasz Kaiser, Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper. 
 
 [Certificate](https://coursera.org/share/edef25426347b74c7ea0d11cce365065)
@@ -8,13 +9,15 @@ The assignments and materials are the intellectual property of deeplearning.ai, 
 
 ## Changes to the original assignments
 Abiding by LICENSE CC-BY-NC-SA 4.0, I hereby declare changes made to the original distribution:
+
 - I added my solutions to the assignments.
 - In-line comments for some assignments were modified to reflect the intention of the code (for my learning purposes)
 
 ## Other notes
 **This is not complete workspace**. I have only included the final assignments for each week. 
-    - The course also includes quizzes and practice assignments. 
-    - Data and pre-trained models are not included in this repository, since they're large and I'm not sure about their redistribution policy.
+
+- The course also includes quizzes and practice assignments. 
+- Data and pre-trained models are not included in this repository, since they're large and I'm not sure about their redistribution policy.
 
 
 My work is stored here for *my own* review. While I hope that this repository can be a helpful resource for others, I would like to remind you that copying or using any of the code here will not help you learn the material. I encourage you to try to solve the assignments yourself before looking at the solutions.
