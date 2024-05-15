@@ -19,8 +19,7 @@ Abiding by LICENSE CC-BY-NC-SA 4.0, I hereby declare changes made to the origina
 - The course also includes quizzes and practice assignments. 
 - Data and pre-trained models are not included in this repository, since they're large and I'm not sure about their redistribution policy.
 
-
-My work is stored here for *my own* review. While I hope that this repository can be a helpful resource for others, I would like to remind you that copying or using any of the code here will not help you learn the material. I encourage you to try to solve the assignments yourself before looking at the solutions.
+My work is stored here for **my own** review. While I hope that this repository can be a helpful resource for others, I would like to remind you that copying or using any of the code here will not help you learn the material. I encourage you to try to solve the assignments yourself before looking at the solutions.
 
 # Structure
 
@@ -61,9 +60,6 @@ This is the second course of the Natural Language Processing Specialization.
 
 **Week 4: Word2Vec and Stochastic Gradient Descent**
 
-- Write your own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model
-
-
 ## Course 3: Sequence Models in NLP
 
 This is the third course in the Natural Language Processing Specialization.
@@ -87,8 +83,6 @@ This is the third course in the Natural Language Processing Specialization.
 
 ## Course 4: Attention Models in NLP
 
-This is the fourth course in the Natural Language Processing Specialization.
-
 **Week 1: Neural Machine Translation with Attention**
 
 - Translate complete English sentences into French using an encoder/decoder attention model
@@ -104,5 +98,3 @@ This is the fourth course in the Natural Language Processing Specialization.
 **Week 4: Chatbots with a Reformer Model**
 
 - Build a chatbot using a reformer model
-
-# Notes
